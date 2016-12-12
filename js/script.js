@@ -1,5 +1,5 @@
 function GoogleCallback(jqueryObj, data) {
-  console.log(data, 'data');
+  console.log(obj, 'obj');
 }
 (function () {
   $.ajax ({
